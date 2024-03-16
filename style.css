@@ -1,0 +1,21 @@
+/* 
+    =========================================================
+    * ArchitectUI HTML Theme Dashboard - v1.0.0
+    =========================================================
+    * Product Page: https://dashboardpack.com
+ */
+.icon-source {
+   height: 23px;
+   width: auto;
+   background: 'Ecolizer Logo.png';
+   position: absolute;
+}
+
+.page-icon {
+}
+
+.app-header__logo .logo {
+     height: 23px;
+     width: auto;
+     background: url('C:/Users/user/Downloads/Ecolizer/Ecolizer-Proj/src/Ecolizer Logo.png');
+ }
