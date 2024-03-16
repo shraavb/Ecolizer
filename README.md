@@ -1,0 +1,2 @@
+# Ecolizer
+Global Spark Hackathon
