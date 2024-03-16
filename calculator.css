@@ -1,0 +1,41 @@
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    background: rgba(0, 94, 58, 1);
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.row {
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+label,
+p,
+input {
+    color: white;
+    font-family: arial;
+    padding: 0.5rem;
+}
+
+.calculate-button {
+    background-color: rgba(195, 243, 183, 1);
+    padding: 10px 20px; /* Adjust padding as needed */
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Add a smooth transition effect */
+    border-radius: 12px; /* Make the button rounded */
+
+
+}
+
+.calculate-button:hover {
+    background-color: rgba(175, 223, 163, 1); /* Slightly darker shade on hover */
+}
+
+.container {
+    display: flex;
+    justify-content: flex-end; /* Align items to the end (right) of the container */
+}
